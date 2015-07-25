@@ -8,7 +8,7 @@ latland is a simple theme and accompanying color scheme for Sublime Text 2 & 3 (
 
 ##Design
 
-
+![Design](https://raw.github.com/hiun/webstorm-flatland/master/design.png)
 
 ## Installation
 
